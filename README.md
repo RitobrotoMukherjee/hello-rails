@@ -13,8 +13,8 @@
 - If you wish to run the project locally, please do the following:
 
 - Clone the repository to your local machine.
-    - **`https://github.com/RitobrotoMukherjee/practice-rail-hello.git`**
-    - **`cd practice-rail-hello`**
+    - **`https://github.com/RitobrotoMukherjee/hello-rails.git`**
+    - **`cd hello-rails`**
 
 ## Prerequisite
 
